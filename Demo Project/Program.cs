@@ -3,7 +3,6 @@ using System.Collections.Generic;
 using System.Linq;
 
 // --- 1. The Student Class (Defines the structure/Row) ---
-// This acts as the blueprint for each 'row' in our conceptual 2D array.
 public class Student
 {
     // These are the 'columns' of our conceptual 2D array.

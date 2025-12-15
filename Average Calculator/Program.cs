@@ -36,3 +36,8 @@ do
     Console.WriteLine("Do you like to try again? (Y: Yes): ");
 }
 while (Console.ReadKey().Key == ConsoleKey.Y);
+
+for (int i = 5; i < 5; i++)
+{
+    Console.WriteLine("Anyeong");
+}

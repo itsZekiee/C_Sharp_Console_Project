@@ -10,6 +10,10 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Alyzza Policarpio", "Alyzza
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lesson 1 - Final Assessment", "Lesson 1 - Final Assessment\Lesson 1 - Final Assessment.csproj", "{9BD5057A-D92E-4A6E-A6BD-A5A2C0B33992}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Demo Project", "Demo Project\Demo Project.csproj", "{0C907ED6-5F9F-4AFE-8B90-922DAFDB1832}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Prixy Daniella", "Prixy Daniella", "{516846C1-BFB2-4291-97C9-553734110B6C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -28,9 +32,14 @@ Global
 		{9BD5057A-D92E-4A6E-A6BD-A5A2C0B33992}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9BD5057A-D92E-4A6E-A6BD-A5A2C0B33992}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9BD5057A-D92E-4A6E-A6BD-A5A2C0B33992}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0C907ED6-5F9F-4AFE-8B90-922DAFDB1832}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0C907ED6-5F9F-4AFE-8B90-922DAFDB1832}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0C907ED6-5F9F-4AFE-8B90-922DAFDB1832}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0C907ED6-5F9F-4AFE-8B90-922DAFDB1832}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
 		{4D197FD7-65DB-474B-89F0-678F66EBB6B0} = {483486F7-4361-4E9A-B777-0EC4D34CB06A}
 		{9BD5057A-D92E-4A6E-A6BD-A5A2C0B33992} = {4D197FD7-65DB-474B-89F0-678F66EBB6B0}
+		{516846C1-BFB2-4291-97C9-553734110B6C} = {483486F7-4361-4E9A-B777-0EC4D34CB06A}
 	EndGlobalSection
 EndGlobal
